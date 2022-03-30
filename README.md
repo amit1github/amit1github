@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit1github&label=Profile%20views&color=0e75b6&style=flat" alt="amit1github" /> </p>
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
