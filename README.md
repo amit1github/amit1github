@@ -33,7 +33,15 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/amit-kr-yadav/">
+  <img align="left" alt="Amit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/amit1github">
+  <img align="left" alt="Rakesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+</p>
 
 <div align="center">
 
