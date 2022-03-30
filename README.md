@@ -1,7 +1,16 @@
   Hi there 👋
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit1github&label=Profile%20views&color=0e75b6&style=flat" alt="amit1github" /> </p>
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on "ReactJS & NodeJS".
+- 🌱 I’m currently learning "Full stack MERN development".
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... -->
+- 📫 How to reach me: Connect with me at linkedin. 
+- ⚡ Fun fact: JavaScript is the most popular programming language in 2022. The next places are occupied by HTML/CSS and SQL. Technologies such as Ruby, Java and Python have maintained a stable position over the years.
 
 
 <br>
