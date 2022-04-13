@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "ReactJS & NodeJS".
+- 🔭 I’m currently working on "ReactJS".
 - 🌱 I’m currently learning "Full stack MERN development".
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
