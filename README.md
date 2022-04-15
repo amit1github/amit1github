@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 
-</br>
+<br/>
 <a href="https://github.com/amit1github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit1github&theme=light&hide_langs_below=5" />
 </a>
