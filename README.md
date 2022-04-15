@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: Connect with me at linkedin.  -->
 - ⚡ Fun fact: JavaScript is the most popular programming language in 2022. The next places are occupied by HTML/CSS and SQL. Technologies such as Ruby, Java and Python have maintained a stable position over the years.
 
-</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/amit-kr-yadav/">
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<br>
+</br>
 <a href="https://github.com/amit1github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit1github&theme=light&hide_langs_below=5" />
 </a>
