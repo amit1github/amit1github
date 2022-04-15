@@ -23,12 +23,14 @@ Here are some ideas to get you started:
 </a>
 </p>
 <br/>
+</br>
+
 
 <a href="https://github.com/amit1github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit1github&theme=light&hide_langs_below=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit1github&show_icons=true&locale=en&count_private=true" alt="Amit's github stats" />
 </a>
 <a href="https://github.com/amit1github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit1github&show_icons=true&locale=en&count_private=true" alt="Amit's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit1github&theme=light&hide_langs_below=5" />
 </a>
 
 <br/>
