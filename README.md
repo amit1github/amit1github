@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </a>
   
 <a href="https://github.com/amit1github">
-  <img align="left" alt="Rakesh's Github" width="22px" src="https://img.icons8.com/nolan/344/github.png" />
+  <img align="left" alt="Amit's Github" width="22px" src="https://img.icons8.com/nolan/344/github.png" />
 </a>
 </p>
 
