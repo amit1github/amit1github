@@ -22,9 +22,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Amit's Github" width="22px" src="https://img.icons8.com/nolan/344/github.png" />
 </a>
 </p>
-
-
 <br/>
+
 <a href="https://github.com/amit1github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit1github&theme=light&hide_langs_below=5" />
 </a>
