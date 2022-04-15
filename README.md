@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 
 
 <br>
+<a href="https://github.com/amit1github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit1github&theme=light&hide_langs_below=5" />
+</a>
+<a href="https://github.com/amit1github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit1github&show_icons=true&locale=en&count_private=true" alt="Amit's github stats" />
+</a>
+
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -38,16 +46,6 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
-
-<a href="https://github.com/amit1github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit1github&theme=light&hide_langs_below=5" />
-</a>
-<a href="https://github.com/amit1github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit1github&show_icons=true&locale=en&count_private=true" alt="Amit's github stats" />
-</a>
-
-<br/>
-
 
 <div align="center">
 
