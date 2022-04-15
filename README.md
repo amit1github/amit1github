@@ -12,6 +12,18 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: Connect with me at linkedin.  -->
 - ⚡ Fun fact: JavaScript is the most popular programming language in 2022. The next places are occupied by HTML/CSS and SQL. Technologies such as Ruby, Java and Python have maintained a stable position over the years.
 
+</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/amit-kr-yadav/">
+  <img align="left" alt="Amit's Linkdein" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png" />
+</a>
+  
+<a href="https://github.com/amit1github">
+  <img align="left" alt="Amit's Github" width="22px" src="https://img.icons8.com/nolan/344/github.png" />
+</a>
+</p>
+
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -35,16 +47,7 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amit-kr-yadav/">
-  <img align="left" alt="Amit's Linkdein" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png" />
-</a>
-  
-<a href="https://github.com/amit1github">
-  <img align="left" alt="Amit's Github" width="22px" src="https://img.icons8.com/nolan/344/github.png" />
-</a>
-</p>
+
 
 <div align="center">
 
