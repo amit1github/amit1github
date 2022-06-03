@@ -1,11 +1,11 @@
   Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit1github&label=Profile%20views&color=0e75b6&style=flat" alt="amit1github" /> </p>
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on "ReactJS".
-- 🌱 I’m currently learning "Full stack MERN development".
+- 🌱 I’m currently learning "Full stack MERN development". -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
