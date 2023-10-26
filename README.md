@@ -1,5 +1,28 @@
 # 💫 About Me:
-Hello there! 👋 I'm Amit Kumar Yadav, a passionate and adaptable backend developer with over a year of experience in the field. While Node.js is my primary focus, I'm also open to exploring and learning other backend languages based on project requirements. I specialize in crafting robust and efficient server-side solutions, bringing ideas to life through clean and maintainable code. I am currently working as a freelancer but eagerly looking for exciting opportunities to contribute my skills and expertise as a full-time employee.<br><br><h3>Technical Expertise</h3><br><br>Languages: I am proficient in Node.js, Express, MongoDB, and Javascript, enabling me to adapt to various project requirements.<br>Backend Development: I have hands-on experience in developing scalable and secure backend systems, utilizing frameworks like Node.js, Express, and MongoDB to build RESTful APIs, microservices, and web applications.<br>Database Management: I am well-versed in designing and optimizing database schemas, using NoSQL databases like MongoDB and MySQL.<br>API Integration: I have integrated numerous third-party APIs, ensuring seamless communication between different systems and services.<br>Version Control: I am skilled in using Git and GitHub, collaborating with teams and managing project repositories effectively.<br>DevOps: Proficient in AWS services like EC2 and S3, streamlining deployment and operations.<br>Collaboration and Open Source<br><br>I am passionate about collaboration and believe in the power of open source software. I actively seek opportunities to contribute to server-side projects, be it through bug fixes, feature enhancements, or creating new tools. If you have an open source project in need of a backend developer, I would love to be part of it.<br><br>
+Hello there! 👋 I'm Amit Kumar Yadav, a passionate and adaptable backend developer with over a year of professional experience. My primary focus is on Node.js, but I'm also open to exploring and learning other backend languages based on project requirements. I specialize in crafting robust and efficient server-side solutions, bringing ideas to life through clean and maintainable code.
+
+## Technical Expertise
+
+- **Languages:** Proficient in Node.js, Express, MongoDB, JavaScript, and MySQL, enabling adaptability to various project requirements.
+- **Backend Development:** Experienced in developing scalable and secure backend systems using Node.js, Express, and MongoDB. I build RESTful APIs, microservices, and web applications.
+- **Database Management:** Well-versed in designing and optimizing database schemas, with expertise in NoSQL databases such as MongoDB and SQL databases like MySQL.
+- **API Integration:** Proficient in integrating third-party APIs, ensuring seamless communication between different systems and services.
+- **DevOps:** Skilled in managing AWS services, including S3 and EC2, for efficient deployment and hosting.
+- **Version Control:** Experienced in using Git and GitHub for effective collaboration with teams and project repository management.
+
+## Collaboration and Open Source
+
+I'm passionate about collaboration and actively seek opportunities to contribute to server-side projects through bug fixes, feature enhancements, or creating new tools. If you have an open source project in need of a backend developer, I'd love to be part of it.
+
+## What I Bring to the Table
+
+- **Passion for Quality:** I strive for excellence, focusing on delivering high-quality solutions that meet both user and stakeholder needs.
+- **Strong Problem-Solving Skills:** I enjoy tackling complex challenges and finding innovative solutions, utilizing analytical thinking and attention to detail.
+- **Team Player:** I thrive in collaborative environments, actively participating in discussions, sharing ideas, and supporting fellow developers.
+- **Continuous Learning:** With a growth mindset, I constantly seek opportunities to expand my knowledge and stay up-to-date with the latest industry trends and best practices.
+
+I'm currently open to exciting opportunities where I can contribute my skills and expertise as a full-time employee. Let's connect and explore how we can work together on innovative projects!
+
 
 
 ## 🌐 Socials:
