@@ -24,7 +24,4 @@ I'm currently open to exciting opportunities where I can contribute my skills an
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amit1github&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amit1github&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=amit1github&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
