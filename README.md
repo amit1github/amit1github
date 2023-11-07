@@ -6,7 +6,7 @@ I'm open to exploring and learning other backend languages based on project requ
 ## Technical Expertise
 
 - **Languages:** Proficient in *Node.js, Express, MongoDB, JavaScript, and MySQL,* enabling adaptability to various project requirements.
-- **Backend Development:** Experienced in developing scalable and secure backend systems using Node.js, Express, and MongoDB. I build RESTful APIs, microservices & web applications.
+- **Backend Development:** Experienced in developing scalable and secure backend systems using Node.js, Express, and MongoDB. I build RESTful APIs, microservices and web applications.
 - **Database Management:** Well-versed in designing and optimizing database schemas, with expertise in NoSQL databases such as MongoDB and SQL databases like MySQL.
 - **API Integration:** Proficient in integrating third-party APIs, ensuring seamless communication between different systems and services.
 - **DevOps:** Skilled in managing AWS services, including S3 and EC2, for efficient deployment and hosting.
