@@ -5,10 +5,10 @@ I'm open to exploring and learning other backend languages based on project requ
 
 ## Technical Expertise
 
-• **Programming Languages:** JavaScript, TypeScript
-• **Front-end Technologies:** React JS, Next JS, MUI, HTML, CSS
-• **Back-end Technologies:** Node JS, Express JS, Nest JS, MongoDB, Mongoose
-• **Others:** Socket.io, Redis, Git, AWS (EC2 and S3), Microservices
+- **Programming Languages:** JavaScript, TypeScript
+- **Front-end Technologies:** React JS, Next JS, MUI, HTML, CSS
+- **Back-end Technologies:** Node JS, Express JS, Nest JS, MongoDB, Mongoose
+- **Others:** Socket.io, Redis, Git, AWS (EC2 and S3), Microservices
 
 I'm currently open to exciting opportunities where I can contribute my skills and expertise. Let's connect and explore how we can work together on innovative projects!
 
