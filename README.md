@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hello there! 👋 I'm Amit Kumar Yadav, Full Stack Developer (MERN) with 3+ years of experience. Proficient in Node.js, Nest.js, Express.js, MongoDB, React.js, TypeScript, and AWS. Experienced in building scalable SaaS platforms, third-party API integrations, and end-to-end feature development across domains like e-commerce, finance, and media. Skilled in backend architecture, secure RESTful APIs, and cross-functional collaboration.
 
-I'm open to exploring and learning other backend languages based on project requirements. My adaptability allows me to excel in various project scenarios. In addition to my backend skills, I'm also proficient in Object-Oriented Programming, providing a solid foundation for creating well-structured and scalable applications.
-
 ## Technical Expertise
 
 - **Programming Languages:** JavaScript, TypeScript
