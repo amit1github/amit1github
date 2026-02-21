@@ -1,18 +1,16 @@
 # 💫 About Me:
-Hello there! 👋 I'm Amit Kumar Yadav, a passionate backend developer with over a year of professional experience. My expertise lies in crafting robust and efficient server-side solutions, bringing ideas to life through clean and maintainable code. While I have a strong foundation in Node.js, my primary focus is on backend development, regardless of the language.
+Hello there! 👋 I'm Amit Kumar Yadav, Full Stack Developer (MERN) with 3+ years of experience. Proficient in Node.js, Nest.js, Express.js, MongoDB, React.js, TypeScript, and AWS. Experienced in building scalable SaaS platforms, third-party API integrations, and end-to-end feature development across domains like e-commerce, finance, and media. Skilled in backend architecture, secure RESTful APIs, and cross-functional collaboration.
 
 I'm open to exploring and learning other backend languages based on project requirements. My adaptability allows me to excel in various project scenarios. In addition to my backend skills, I'm also proficient in Object-Oriented Programming, providing a solid foundation for creating well-structured and scalable applications.
 
 ## Technical Expertise
 
-- **Languages:** Proficient in *Node.js, Express, MongoDB, JavaScript, and MySQL,* enabling adaptability to various project requirements.
-- **Backend Development:** Experienced in developing scalable and secure backend systems using Node.js, Express, and MongoDB. I build RESTful APIs, microservices and web applications.
-- **Database Management:** Well-versed in designing and optimizing database schemas, with expertise in NoSQL databases such as MongoDB and SQL databases like MySQL.
-- **API Integration:** Proficient in integrating third-party APIs, ensuring seamless communication between different systems and services.
-- **DevOps:** Skilled in managing AWS services, including S3 and EC2, for efficient deployment and hosting.
-- **Version Control:** Experienced in using Git and GitHub for effective collaboration with teams and project repository management.
+• **Programming Languages:** JavaScript, TypeScript
+• **Front-end Technologies:** React JS, Next JS, MUI, HTML, CSS
+• **Back-end Technologies:** Node JS, Express JS, Nest JS, MongoDB, Mongoose
+• **Others:** Socket.io, Redis, Git, AWS (EC2 and S3), Microservices
 
-I'm currently open to exciting opportunities where I can contribute my skills and expertise as a full-time employee. Let's connect and explore how we can work together on innovative projects!
+I'm currently open to exciting opportunities where I can contribute my skills and expertise. Let's connect and explore how we can work together on innovative projects!
 
 
 ## 🌐 Socials:
